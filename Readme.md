@@ -1,7 +1,7 @@
-## 神船k550d opencore0.6.9 EFI 文件
-参考[OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)制作
+# 神船k550d opencore0.6.9 EFI 文件
+参考[**OpenCore Install Guide**](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)制作
 
-**MacOS**版本：big sur 11.2.3
+**MacOS**版本：大乌苏 11.2.3
 
 **cpu**：i5-4210M(i7款也能用)
 
